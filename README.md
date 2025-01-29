@@ -6,3 +6,5 @@ This tutorial provides a concise overview of essential SAS concepts and techniqu
 - [Mardown Version](https://chitranshuv.github.io/SAS-Only-Important-Parts/SAS_Only_Important_Parts.md)
 - [HTML Version](https://chitranshuv.github.io/SAS-Only-Important-Parts/SAS_Only_Important_Parts.html)
 - [PDF Version](https://chitranshuv.github.io/SAS-Only-Important-Parts/SAS_Only_Important_Parts.pdf)
+
+Have a great time learning 🎉 🙌
